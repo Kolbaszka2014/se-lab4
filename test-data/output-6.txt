@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+ FAIL #itt meg semmi mert nem lo elv
